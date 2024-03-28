@@ -121,3 +121,13 @@
 // }
 // isEven(num);
 //Task-10;
+// let phoneNumber = "+71234567890";
+// function isvalidnumber(params) {
+//   if (phoneNumber.length === 12 && phoneNumber[0] === "+") {
+//     console.log(true);
+//   } else {
+//     console.log("false");
+//   }
+// }
+// isvalidnumber(phoneNumber);
+//Task-11;
